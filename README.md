@@ -47,11 +47,11 @@ Description
 
 ### 上手指南
 
-“/your_github_name/your_repository”
+<!--“/your_github_name/your_repository”-->
+[https://github.com/hrelio/aicup/blob/main/aicup.ipynb](https://github.com/hrelio/aicup/blob/main/aicup.ipynb)
 
 
-
-###### 開發前的配置要求
+<!--###### 開發前的配置要求
 
 1. xxxxx x.x.x
 2. xxxxx x.x.x
@@ -110,16 +110,20 @@ filetree
 ### 版本控制
 
 該專案使用Git進行版本管理。您可以在repository參看當前可用版本。
-
+-->
 ### 作者
 
-xxx@xxxx
+c110154228@nkust.edu.tw</p>
+c110154247@nkust.edu.tw</p>
+c110154250@nkust.edu.tw</p>
 
+
+<!--
  *您也可以在貢獻者名單中參看所有參與該專案的開發者。*
 
 ### 版權說明
 
 該項目簽署了MIT 授權許可，詳情請參閱 [LICENSE.txt](https://github.com/your_github_name/your_repository/blob/master/LICENSE.txt)
-
+-->
 
 
