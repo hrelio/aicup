@@ -7,8 +7,15 @@ Description
 
 <!-- PROJECT LOGO -->
 <br />
-
-<p align="center">
+環境 : Windows 11，使用google colab
+ </p>
+訓練集 : opendid_set1.tsv
+ </p>
+測試集 : opendid_test.tsv
+ </p>
+最後輸出檔案 : test.tsv
+ </p>
+<!-- <p align="center">
   <h3 align="center">README範本</h3>
   <p align="center">
     一個"完美的"README範本去快速開始你的專案！
@@ -21,14 +28,12 @@ Description
     <a href="https://github.com/your_github_name/your_repository/issues">報告Bug</a>
     ·
     <a href="https://github.com/your_github_name/your_repository/issues">提出新特性</a>
-  </p>
+  </p> -->
 
 </p>
 
-
- 本篇README.md面向開發者
  
-## 目錄
+<!-- ## 目錄
 
 - [上手指南](#上手指南)
   - [開發前的配置要求](#開發前的配置要求)
@@ -38,6 +43,7 @@ Description
 - [部署](#部署)
 - [使用到的框架](#使用到的框架)
 - [版本控制](#版本控制)
+-->
 
 ### 上手指南
 
