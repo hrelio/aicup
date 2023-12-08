@@ -45,7 +45,7 @@ Description
 - [版本控制](#版本控制)
 -->
 
-### 上手指南
+### 程式碼
 
 <!--“/your_github_name/your_repository”-->
 [https://github.com/hrelio/aicup/blob/main/aicup.ipynb](https://github.com/hrelio/aicup/blob/main/aicup.ipynb)
